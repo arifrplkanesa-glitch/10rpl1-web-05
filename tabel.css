@@ -1,0 +1,30 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.judul {
+    text-align: center;
+}
+
+td, th {
+  border: 1px solid #0c0000;
+  text-align: left;
+  padding: 8px;}
+  tr:nth-child
+  {background-color: #f9f7f7;
+}  
+
+h2 {text-align: center;}
+.status {text-align: center;background-color: #dddddd;}
+th{color: #f9f7f7;
+background-color: rgb(42, 20, 188);}
+
+.status-bawah {
+    text-align: center;background-color: #dddddd;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
